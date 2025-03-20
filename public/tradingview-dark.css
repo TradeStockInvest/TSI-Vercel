@@ -1,0 +1,38 @@
+.tv-chart-container {
+  background-color: #131722 !important;
+}
+
+.chart-page {
+  background-color: #131722 !important;
+}
+
+.chart-controls-bar {
+  background-color: #1e222d !important;
+}
+
+.chart-markup-table {
+  background-color: #131722 !important;
+}
+
+.loading-indicator {
+  background-color: #131722 !important;
+}
+
+.chart-container {
+  background-color: #131722 !important;
+}
+
+.chart-controls-bar-buttons a {
+  color: #9ca3af !important;
+}
+
+.chart-controls-bar-buttons a:hover {
+  color: #f9fafb !important;
+}
+
+.apply-common-tooltip {
+  background-color: #1e222d !important;
+  color: #e5e7eb !important;
+  border-color: #374151 !important;
+}
+
